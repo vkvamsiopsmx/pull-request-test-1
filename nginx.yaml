@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     run: nginx
-  name: nginx-opsmx-5
+  name: nginx-opsmx-6
 spec:
   replicas: 1
   selector:
